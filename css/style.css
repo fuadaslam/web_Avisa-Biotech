@@ -536,10 +536,21 @@ a:focus {
   .banner .block h1 {
     font-size: 38px;
     line-height: 50px;
+    position: relative;
+    overflow: hidden;
+    background: #fff;
+    background: url("../images/bg/image7.jpeg") no-repeat;
+    background-size: cover;
+    min-height: 550px;
   }
   .banner {
     min-height: 450px;
-    background: #fff !important;
+    position: relative;
+    overflow: hidden;
+    background: #fff;
+    background: url("../images/bg/image7.jpeg") no-repeat;
+    background-size: cover;
+    min-height: 550px !important;
   }
 }
 
@@ -547,10 +558,21 @@ a:focus {
   .banner .block h1 {
     font-size: 28px;
     line-height: 40px;
+    position: relative;
+    overflow: hidden;
+    background: #fff;
+    background: url("../images/bg/image7.jpeg") no-repeat;
+    background-size: cover;
+    min-height: 550px;
   }
   .banner {
     min-height: 450px;
-    background: #fff !important;
+    position: relative;
+    overflow: hidden;
+    background: #fff;
+    background: url("../images/bg/image7.jpeg") no-repeat;
+    background-size: cover;
+    min-height: 550px !important;
   }
 }
 
@@ -560,7 +582,12 @@ a:focus {
     line-height: 70px;
   }
   .banner {
-    background: #fff !important;
+    position: relative;
+    overflow: hidden;
+    background: #fff;
+    background: url("../images/bg/image7.jpeg") no-repeat;
+    background-size: cover;
+    min-height: 550px !important;
   }
 }
 
